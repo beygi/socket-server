@@ -19,7 +19,7 @@
         "install": "^0.13.0",
         "jsonwebtoken": "^8.5.1",
         "nodemon": "^1.19.1",
-        "npm": "^6.10.0",
+        "npm": "^6.14.6",
         "redis": "^2.8.0",
         "socket.io": "^2.2.0",
         "socketio-auth": "^0.1.1",
