@@ -17,7 +17,7 @@
         "concurrently": "^4.1.1",
         "express": "^4.17.1",
         "install": "^0.13.0",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "nodemon": "^1.19.1",
         "npm": "^6.10.0",
         "redis": "^2.8.0",
